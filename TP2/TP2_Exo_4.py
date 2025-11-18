@@ -1,4 +1,5 @@
-base=int(input("donnez le nombre de personnes conviées à la fondue :"))
+base=int(input("d"
+               "donnez le nombre de personnes conviées à la fondue :"))
 fromage=base*200
 eau=base/2
 ail=base/2
