@@ -1,5 +1,5 @@
 # Taille maximale des vecteurs
-nMax = 3
+nMax = 4
 
 # Déclaration des listes
 v1 = []

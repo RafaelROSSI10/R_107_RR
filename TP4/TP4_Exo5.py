@@ -26,7 +26,6 @@ def verification_date(date_str):
     # Vérification du jour
     if jour < 1 or jour > jours_dans_mois:
         return f"Date incorrecte : le jour {jour} n'existe pas pour le mois {mois} en {annee}."
-
     return f"Date correcte : {jour:02d}/{mois:02d}/{annee}"
 
 # -------------------------------
