@@ -1,5 +1,5 @@
-x=1
-y=2
+x=input("entrez la première valeure :")
+y=input("entrez la seconde valeure :")
 print (x,y)
 tempo=x
 x=y
